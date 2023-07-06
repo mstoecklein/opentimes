@@ -1,6 +1,6 @@
 # OpenTimes
 
-[![CircleCI](https://circleci.com/gh/mstoecklein/opening-hours/tree/master.svg?style=svg)](https://circleci.com/gh/mstoecklein/opening-hours/tree/master)
+[![CircleCI](https://circleci.com/gh/mstoecklein/opentimes/tree/master.svg?style=svg)](https://circleci.com/gh/mstoecklein/opentimes/tree/master)
 
 A plain typescript/ES6+ opening hours library with no external dependencies.
 
