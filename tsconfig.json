@@ -17,5 +17,5 @@
     "declarationDir": "dest/types"
   },
   "include": ["**/*.ts"],
-  "exclude": ["**/*.spec.ts", "dest/**/*"]
+  "exclude": ["mod.ts", "**/*.spec.ts", "dest/**/*"]
 }
